@@ -1,0 +1,23 @@
+name: pri
+favicon: null
+layout_spectrum: 0.4803139357827604
+typography_spectrum: 0.4762987024150789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3946466017514467
+  lightness: 0.1979684482794255
+  saturation: 0.45541117852553725
+  rhythmicContrast: 0.09399286820553243
+purpose: []
